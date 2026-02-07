@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+virtenv/
+
+# Logs
+*.log
+
+# Env
+.env
+
+# VS Code (tùy chọn)
+.vscode/
