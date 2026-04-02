@@ -1,0 +1,65 @@
+[
+    {
+        "student_id": "S002",
+        "name": "Tran Thi B",
+        "age": 21,
+        "major": "Business Administration",
+        "gpa": 3.8
+    },
+    {
+        "student_id": "S003",
+        "name": "Le Van C",
+        "age": 19,
+        "major": "Engineering",
+        "gpa": 3.2
+    },
+    {
+        "student_id": "S004",
+        "name": "Pham Thi D",
+        "age": 22,
+        "major": "Marketing",
+        "gpa": 3.6
+    },
+    {
+        "student_id": "S005",
+        "name": "Hoang Van E",
+        "age": 20,
+        "major": "Finance",
+        "gpa": 3.4
+    },
+    {
+        "student_id": "S006",
+        "name": "Do Thi F",
+        "age": 23,
+        "major": "Accounting",
+        "gpa": 3.7
+    },
+    {
+        "student_id": "S007",
+        "name": "Bui Van G",
+        "age": 21,
+        "major": "Computer Science",
+        "gpa": 3.9
+    },
+    {
+        "student_id": "S008",
+        "name": "Dang Thi H",
+        "age": 19,
+        "major": "Graphic Design",
+        "gpa": 3.3
+    },
+    {
+        "student_id": "S009",
+        "name": "Ngo Van I",
+        "age": 22,
+        "major": "Mechanical Engineering",
+        "gpa": 3.1
+    },
+    {
+        "student_id": "S010",
+        "name": "Pham Thi K",
+        "age": 20,
+        "major": "English Language",
+        "gpa": 3.6
+    }
+]
